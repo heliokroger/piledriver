@@ -1,0 +1,16 @@
+{
+    "name": "piledriver",
+    "version": "1.0.0",
+    "description": "Lightweight global state manager for React",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Helio Junior Rodrigues Kroger <heliojuniorkroger@gmail.com>",
+    "license": "ISC",
+    "repository": "git://github.com/heliojuniorkroger/piledriver",
+    "dependencies": {
+        "react": "^16.8.4"
+    }
+  }
+  
